@@ -54,12 +54,13 @@ a:hover{
    margin-right: auto;
    margin-bottom: 20px;
    padding: 20px;
-   background-color: #F6EE14;
+   background-color: #ffcc00;
    text-shadow: 1px 0px 3px #000000;
    border: solid #FFAE00 1px;
    text-decoration: none;
    text-align: center;
    cursor: pointer;
+    transition: background-color 0.7s;
 }
 
 .button:hover {
